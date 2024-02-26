@@ -1,1 +1,2 @@
-Program for finding Factorial of a number using java
+Sample Programs using Java is given below
+
